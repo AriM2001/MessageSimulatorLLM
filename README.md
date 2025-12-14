@@ -5,6 +5,8 @@ Prerequesties:
   pip install numpy
   pip install matplotlib
   Be sure to have local LLM running on local machine. This is different from the library you to download a seperate app for to install the LLM (providers.py include ollama, openai, and anthropic(Claude) JSON for using the model) 
+
+Website where I chose and installed my model: https://ollama.com/search
   
 1. Open the file named main.py and ensure the other python files are in the same folder
 2. Adjust number accordingly for number of runs to do of the simulation (default is 30)
